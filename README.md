@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-![alt text](image.jpg)
+![](image.jpg)
 
 | Syntax | Description |
 | ----------- | ----------- |
