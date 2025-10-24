@@ -6,4 +6,4 @@ My first repository
 | Syntax | Description |
 | ----------- | ----------- |
 | Movie | The Walking Dead |
-| A story revolving about a guy that awakens throught the apocalypes | Text |
+| Paragraph | About a person who awakens through the apocalypes, his whole journey and experiences during this time |
